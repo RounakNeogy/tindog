@@ -1,0 +1,2 @@
+# tindog
+learning bootstrap
