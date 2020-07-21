@@ -4,6 +4,8 @@ body{
 /* Title */
 #title{
   background-color: #ff4c68;
+  position: absolute;
+  z-index: -1;
 }
 h1{
   font-family: 'Montserrat', sans-serif;
@@ -42,13 +44,12 @@ em{
 .title-image{
   height:  80%;
   margin-left: 40px;
-  margin-top: 30px;
   transform: rotate(25deg);
 }
 /* Navbar */
 .navbar{
   padding-left: 0;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .navbar-brand{
   font-size: 2.5rem;
@@ -60,9 +61,17 @@ em{
   font-weight: normal;
   padding-right: 5%;
 }
+.z-section{
+  position: absolute;
+  top: 600px;
+}
 /* Features */
 #features{
   padding:7% 15%;
+  background-color: #fff;
+
+  /* position: absolute; */
+  /* top: 1000px; */
 }
 .feature-box{
   text-align: center;
@@ -79,7 +88,8 @@ em{
 #testimonials{
   text-align: center;
   background-color: #ef8172;
-
+  /* position: absolute; */
+  /* top: 1500px; */
 }
 .testimonial-image
 {
