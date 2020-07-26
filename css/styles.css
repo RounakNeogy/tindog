@@ -116,6 +116,27 @@ em{
 .price-text{
   color: #000;
 }
+/* call to action */
+#cta{
+  background-color:  #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+.bigheading{
+  color: #fff;
+  font-size: 3.5rem;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+/* footer */
+#footer{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.social-icon{
+  padding: 1%;
+}
 @media (max-width: 1028px)
 {
   #title{
