@@ -147,3 +147,8 @@ em{
     transform: rotate(0);
   }
 }
+@media print {
+    html, body {
+       display: none;  /* hide whole page */
+    }
+}
