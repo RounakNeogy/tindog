@@ -1,6 +1,6 @@
 # tindog🐶 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 Find the love of your's dogs life!
-# Introduction📒
+<h2> Introduction📒 <\h2>
 This a tinder wbesite made exclusively for dogs.
 # Technology Stack 💻
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
