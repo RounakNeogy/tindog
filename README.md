@@ -5,9 +5,5 @@ This a tinder wbesite made exclusively for dogs.
 # Technology Stack 💻
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 # Screenshots
-![](images/first-section.png)
 
-![](images/Carousel.png)
-
-![](images/Card.png)
 
