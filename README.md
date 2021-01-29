@@ -15,5 +15,6 @@ This a tinder wbesite made exclusively for dogs.
 
 ## Screenshots
 ![](images/s1.png)
-
+![](images/s2.png)
+![](images/s3.png)
 
