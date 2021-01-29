@@ -1,2 +1,2 @@
-# Tindog🔥🐶
-learning bootstrap
+# tindog🔥🐶
+Find the love of your's dogs life!
