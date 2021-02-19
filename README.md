@@ -1,5 +1,5 @@
 # tindog🔥🐶 
-Find the love of your's dogs life!
+Find the love of your's dogs life for sure!
 <br/>
 https://rounakneogy.github.io/tindog/
 ## Introduction📒 
